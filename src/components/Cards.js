@@ -9,7 +9,7 @@ const Cards=()=>{
         <>
          <div className="cards">
 
-         <h1>Check out these EPIC destination</h1>
+         <h1>Check out these EPIC and WONDERFUL destination</h1>
            
         <div className="cards__container">
 
